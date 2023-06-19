@@ -1,8 +1,13 @@
+import DogsList from "../feature/dogsList";
+import Navigation from "../feature/navigation";
 
 
 function App() {
   return (
-    <>1232131</>
+    <>
+      <DogsList />
+      <Navigation />
+    </>
   );
 }
 
